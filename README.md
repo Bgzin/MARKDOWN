@@ -198,7 +198,7 @@
 
 ### Diagrama de Classes:
 - **Sessão**:
-  - **Atributos**: ID, Filme, Data, Horário, Preço.
+  - **Atributos**: ID, Sessão, Data e Horário.
   - **Métodos**: criarSessao(), atualizarSessao(), deletarSessao().
 - **Cliente**:
   - **Atributos**: ID, Nome, Email, Senha.
